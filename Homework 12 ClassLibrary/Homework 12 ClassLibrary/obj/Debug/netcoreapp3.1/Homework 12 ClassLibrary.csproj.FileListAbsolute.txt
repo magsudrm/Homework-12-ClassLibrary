@@ -8,3 +8,13 @@ C:\Users\Maqsud\Desktop\Homeworks\Homework 12 ClassLibrary\Homework 12 ClassLibr
 C:\Users\Maqsud\Desktop\Homeworks\Homework 12 ClassLibrary\Homework 12 ClassLibrary\bin\Debug\netcoreapp3.1\Homework 12 ClassLibrary.pdb
 C:\Users\Maqsud\Desktop\Homeworks\Homework 12 ClassLibrary\Homework 12 ClassLibrary\obj\Debug\netcoreapp3.1\Homework 12 ClassLibrary.dll
 C:\Users\Maqsud\Desktop\Homeworks\Homework 12 ClassLibrary\Homework 12 ClassLibrary\obj\Debug\netcoreapp3.1\Homework 12 ClassLibrary.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 ClassLibrary\bin\Debug\netcoreapp3.1\Homework 12 ClassLibrary.deps.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 ClassLibrary\bin\Debug\netcoreapp3.1\Homework 12 ClassLibrary.dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 ClassLibrary\bin\Debug\netcoreapp3.1\Homework 12 ClassLibrary.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 ClassLibrary\obj\Debug\netcoreapp3.1\Homework 12 ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 ClassLibrary\obj\Debug\netcoreapp3.1\Homework 12 ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 ClassLibrary\obj\Debug\netcoreapp3.1\Homework 12 ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 ClassLibrary\obj\Debug\netcoreapp3.1\Homework 12 ClassLibrary.AssemblyInfo.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 ClassLibrary\obj\Debug\netcoreapp3.1\Homework 12 ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 ClassLibrary\obj\Debug\netcoreapp3.1\Homework 12 ClassLibrary.dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 ClassLibrary\obj\Debug\netcoreapp3.1\Homework 12 ClassLibrary.pdb

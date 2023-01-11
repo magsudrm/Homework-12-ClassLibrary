@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Homework 12 PrpgramCs/1.0.0": {
+        "runtime": {
+          "Homework 12 PrpgramCs.dll": {}
+        }
+      },
+      "Homework 12 ClassLibrary/1.0.0": {
+        "runtime": {
+          "Homework 12 ClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework 12 PrpgramCs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Homework 12 ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

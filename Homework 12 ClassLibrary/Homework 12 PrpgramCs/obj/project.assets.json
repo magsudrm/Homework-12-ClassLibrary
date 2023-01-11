@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Homework 12 ClassLibrary\\Homework 12 PrpgramCs\\Homework 12 PrpgramCs.csproj",
+      "projectUniqueName": "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Homework-12-ClassLibrary\\Homework 12 ClassLibrary\\Homework 12 PrpgramCs\\Homework 12 PrpgramCs.csproj",
       "projectName": "Homework 12 PrpgramCs",
-      "projectPath": "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Homework 12 ClassLibrary\\Homework 12 PrpgramCs\\Homework 12 PrpgramCs.csproj",
+      "projectPath": "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Homework-12-ClassLibrary\\Homework 12 ClassLibrary\\Homework 12 PrpgramCs\\Homework 12 PrpgramCs.csproj",
       "packagesPath": "C:\\Users\\Maqsud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Homework 12 ClassLibrary\\Homework 12 PrpgramCs\\obj\\",
+      "outputPath": "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Homework-12-ClassLibrary\\Homework 12 ClassLibrary\\Homework 12 PrpgramCs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maqsud\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Homework 12 ClassLibrary\\Homework 12 ClassLibrary\\Homework 12 ClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Homework 12 ClassLibrary\\Homework 12 ClassLibrary\\Homework 12 ClassLibrary.csproj"
+            "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Homework-12-ClassLibrary\\Homework 12 ClassLibrary\\Homework 12 ClassLibrary\\Homework 12 ClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Homework-12-ClassLibrary\\Homework 12 ClassLibrary\\Homework 12 ClassLibrary\\Homework 12 ClassLibrary.csproj"
             }
           }
         }

@@ -1,0 +1,17 @@
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 PrpgramCs\bin\Debug\netcoreapp3.1\Homework 12 PrpgramCs.exe
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 PrpgramCs\bin\Debug\netcoreapp3.1\Homework 12 PrpgramCs.deps.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 PrpgramCs\bin\Debug\netcoreapp3.1\Homework 12 PrpgramCs.runtimeconfig.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 PrpgramCs\bin\Debug\netcoreapp3.1\Homework 12 PrpgramCs.runtimeconfig.dev.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 PrpgramCs\bin\Debug\netcoreapp3.1\Homework 12 PrpgramCs.dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 PrpgramCs\bin\Debug\netcoreapp3.1\Homework 12 PrpgramCs.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 PrpgramCs\bin\Debug\netcoreapp3.1\Homework 12 ClassLibrary.dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 PrpgramCs\bin\Debug\netcoreapp3.1\Homework 12 ClassLibrary.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 PrpgramCs\obj\Debug\netcoreapp3.1\Homework 12 PrpgramCs.csproj.AssemblyReference.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 PrpgramCs\obj\Debug\netcoreapp3.1\Homework 12 PrpgramCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 PrpgramCs\obj\Debug\netcoreapp3.1\Homework 12 PrpgramCs.AssemblyInfoInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 PrpgramCs\obj\Debug\netcoreapp3.1\Homework 12 PrpgramCs.AssemblyInfo.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 PrpgramCs\obj\Debug\netcoreapp3.1\Homework 12 PrpgramCs.csproj.CoreCompileInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 PrpgramCs\obj\Debug\netcoreapp3.1\Homework 12 PrpgramCs.csproj.CopyComplete
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 PrpgramCs\obj\Debug\netcoreapp3.1\Homework 12 PrpgramCs.dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 PrpgramCs\obj\Debug\netcoreapp3.1\Homework 12 PrpgramCs.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework-12-ClassLibrary\Homework 12 ClassLibrary\Homework 12 PrpgramCs\obj\Debug\netcoreapp3.1\Homework 12 PrpgramCs.genruntimeconfig.cache

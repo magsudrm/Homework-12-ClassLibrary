@@ -113,5 +113,15 @@ namespace Homework_12_ClassLibrary
             }
             return employeeSum;
         }
+
+        public void SelectSalaryLimit(int no)
+        {
+            SalaryLimit = no;
+        }
+
+        public void SelectEmployeeLimit(int no)
+        {
+            EmployeeLimit = no;
+        }
     }
 }

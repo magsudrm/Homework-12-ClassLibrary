@@ -12,6 +12,8 @@ namespace Homework_12_PrpgramCs
             do
             {
                 Console.WriteLine("1.Isci elave et");
+                Console.WriteLine("2.SalaryLimit teyin et");
+                Console.WriteLine("3.EmployeeLimit teyin et");
                 Console.WriteLine("0. Prosesi bitir");
                 opt=Console.ReadLine();
                 switch (opt)
@@ -27,6 +29,16 @@ namespace Homework_12_PrpgramCs
                         department.AddEmployee(name,surname,salary);
                         break;
                     case "2":
+                        Console.Write("SalaryLimit daxil edin: ");
+                        string salaryLimitStr = Console.ReadLine();
+                        int salaryLimit = Convert.ToInt32(salaryLimitStr);
+                        break;
+                    case "3":
+                        Console.Write("EmployeeLimit daxil edin: ");
+                        string employeeLimitStr = Console.ReadLine();
+                        int employeeLimit = Convert.ToInt32(employeeLimitStr);
+                        break;
+                    case "0":
                         Console.WriteLine("Proses bitdi");
                         return;
                     default:
