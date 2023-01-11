@@ -1,0 +1,14 @@
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12 Collections\bin\Debug\netcoreapp3.1\Homework 12 Collections.exe
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12 Collections\bin\Debug\netcoreapp3.1\Homework 12 Collections.deps.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12 Collections\bin\Debug\netcoreapp3.1\Homework 12 Collections.runtimeconfig.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12 Collections\bin\Debug\netcoreapp3.1\Homework 12 Collections.runtimeconfig.dev.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12 Collections\bin\Debug\netcoreapp3.1\Homework 12 Collections.dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12 Collections\bin\Debug\netcoreapp3.1\Homework 12 Collections.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12 Collections\obj\Debug\netcoreapp3.1\Homework 12 Collections.csproj.AssemblyReference.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12 Collections\obj\Debug\netcoreapp3.1\Homework 12 Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12 Collections\obj\Debug\netcoreapp3.1\Homework 12 Collections.AssemblyInfoInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12 Collections\obj\Debug\netcoreapp3.1\Homework 12 Collections.AssemblyInfo.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12 Collections\obj\Debug\netcoreapp3.1\Homework 12 Collections.csproj.CoreCompileInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12 Collections\obj\Debug\netcoreapp3.1\Homework 12 Collections.dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12 Collections\obj\Debug\netcoreapp3.1\Homework 12 Collections.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12 Collections\obj\Debug\netcoreapp3.1\Homework 12 Collections.genruntimeconfig.cache

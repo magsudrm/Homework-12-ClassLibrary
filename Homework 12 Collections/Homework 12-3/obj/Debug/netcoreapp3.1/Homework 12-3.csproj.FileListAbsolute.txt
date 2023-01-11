@@ -1,0 +1,14 @@
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12-3\bin\Debug\netcoreapp3.1\Homework 12-3.exe
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12-3\bin\Debug\netcoreapp3.1\Homework 12-3.deps.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12-3\bin\Debug\netcoreapp3.1\Homework 12-3.runtimeconfig.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12-3\bin\Debug\netcoreapp3.1\Homework 12-3.runtimeconfig.dev.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12-3\bin\Debug\netcoreapp3.1\Homework 12-3.dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12-3\bin\Debug\netcoreapp3.1\Homework 12-3.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12-3\obj\Debug\netcoreapp3.1\Homework 12-3.csproj.AssemblyReference.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12-3\obj\Debug\netcoreapp3.1\Homework 12-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12-3\obj\Debug\netcoreapp3.1\Homework 12-3.AssemblyInfoInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12-3\obj\Debug\netcoreapp3.1\Homework 12-3.AssemblyInfo.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12-3\obj\Debug\netcoreapp3.1\Homework 12-3.csproj.CoreCompileInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12-3\obj\Debug\netcoreapp3.1\Homework 12-3.dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12-3\obj\Debug\netcoreapp3.1\Homework 12-3.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework 12 Collections\Homework 12-3\obj\Debug\netcoreapp3.1\Homework 12-3.genruntimeconfig.cache
